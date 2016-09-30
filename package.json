@@ -10,10 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/SmartTeleMax/stm-spot.git"
   },
-  "author": "",
+  "keywords": [
+    "jquery-plugin",
+    "spot"
+  ],
+  "author": "Evgeny Zhernoklev",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SmartTeleMax/stm-spot/issues"
   },
-  "homepage": "https://github.com/SmartTeleMax/stm-spot#readme"
+  "homepage": "https://github.com/SmartTeleMax/stm-spot#readme",
+  "dependencies": {
+    "jquery": ">= 2.0.0"
+  }
 }

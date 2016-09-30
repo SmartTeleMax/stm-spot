@@ -1,0 +1,19 @@
+{
+  "name": "stm-spot",
+  "version": "1.0.0",
+  "description": "Shows a round spot on mouse click",
+  "main": "spot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartTeleMax/stm-spot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmartTeleMax/stm-spot/issues"
+  },
+  "homepage": "https://github.com/SmartTeleMax/stm-spot#readme"
+}

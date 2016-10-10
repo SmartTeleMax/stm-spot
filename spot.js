@@ -1,4 +1,4 @@
-/*global console: true */
+/*global jQuery, console: true */
 ;(function (factory) {
 	if ( typeof define === 'function' && define.amd ) {
 		// AMD. Register as an anonymous module.
